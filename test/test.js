@@ -7,7 +7,7 @@ var options = { method: 'GET',
      stationName: '%EC%A2%85%EB%A1%9C%EA%B5%AC',
      pageNo: '1',
      numOfRows: '10',
-     ServiceKey: 'rvNmnz733jnjO%2FV7DQe360raZ%2BO9IhrhWuxION%2Fte9eECyO3k%2BNt3W92nW7NIQCeehVDIc6f1LGNDrjyA1VW8Q%3D%3D' },
+     ServiceKey: '' },
   headers:
    { 'cache-control': 'no-cache',
      Connection: 'keep-alive',
